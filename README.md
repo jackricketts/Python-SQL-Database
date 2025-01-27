@@ -1,4 +1,4 @@
-# Python-SQL-Database
+# Python-SQLite-Database
 
 To open this database in the command line, first navigate to where the submission folder is stored. Then, type:
 sqlite3 games_database_jackr.db
